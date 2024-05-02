@@ -1,4 +1,4 @@
-# Alibaba-in-cave
+# Alibaba-in-cave (Algorithms and Design Problem)
 Ali Baba and his thieves enter a cave that contains a set of n types of items from which they are to 
 select some number of items to be theft. Each item type has a weight, a profit and a number of 
 available instances. Their objective is to choose the set of items that fits the possible load of their 
